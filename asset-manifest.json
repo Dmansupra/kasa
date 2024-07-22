@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KasaDCA_OP0724/static/css/main.47ac02a2.css",
+    "main.js": "/KasaDCA_OP0724/static/js/main.0aae9db3.js",
+    "static/media/about_cover.png": "/KasaDCA_OP0724/static/media/about_cover.9438035cca5a38fcb06a.png",
+    "static/media/home_cover.png": "/KasaDCA_OP0724/static/media/home_cover.84132b0f93bbeaa2fe46.png",
+    "index.html": "/KasaDCA_OP0724/index.html",
+    "main.47ac02a2.css.map": "/KasaDCA_OP0724/static/css/main.47ac02a2.css.map",
+    "main.0aae9db3.js.map": "/KasaDCA_OP0724/static/js/main.0aae9db3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ac02a2.css",
+    "static/js/main.0aae9db3.js"
+  ]
+}
