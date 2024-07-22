@@ -17,9 +17,10 @@
 ## Tester le projet :
 
 ```lien github
-htt^
+http://10.5.0.2:3000/Kasa
 ```
 
-```terminal
-git clone
+```
+repo github
+https://github.com/Dmansupra/KasaDCA_OP0724
 ```
